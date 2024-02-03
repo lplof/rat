@@ -38,7 +38,7 @@
 			<p class="text-center">
 				Log in
 			</p>
-			<form id="login-form" method=post action="/Dark/zathura/auth.php">
+			<form id="login-form" method=post action="/zathura/auth.php">
 				<div class="form-group">
 				
 				
